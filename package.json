@@ -1,0 +1,20 @@
+{
+  "name": "intento",
+  "version": "1.0.0",
+  "description": "",
+  "main": "codigo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/landreapaez23/intento.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/landreapaez23/intento/issues"
+  },
+  "homepage": "https://github.com/landreapaez23/intento#readme"
+}
